@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c5d3b2cb76b4908a336ab58ff1246ac)](https://app.codacy.com/gh/BuildForSDGCohort2/booking-frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/booking-frontend&utm_campaign=Badge_Grade_Dashboard)
+
 In the project directory, you can run:
 
 ### `yarn start`
